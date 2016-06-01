@@ -45,8 +45,10 @@
 
 .people li {
 	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
 	margin-bottom: 30px;
-	width: 100%;
+	width: 50%;
 }
 
 .people-photo {
